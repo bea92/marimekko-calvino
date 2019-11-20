@@ -1,0 +1,265 @@
+volume,tipo,caratteri
+V005,C-aggressione/scontro,12716
+V005,C-angoscia/delusione,16785
+V005,C-arrivo,
+V005,C-attesa,
+V005,C-compito/missione,
+V005,S-cornice,
+V005,C-illusione/speranza,
+V005,C-incontro animale,8192
+V005,C-incontro di gruppo,61328
+V005,C-incontro femminile,75098
+V005,C-incontro maschile,101349
+V005,C-iniziativa/piano,
+V005,C-inseguimento/ricerca,
+V005,S-metanarrazione,3379
+V005,C-partenza/sparizione,35417
+V005,C-pausa/sospensione,59774
+V005,S-racconto incastonato,30477
+V005,C-riflessione,
+V005,C-rivelazione,
+V005,C-smarrimento/dubbio,6129
+V005,S-struttura,
+V005,C-viaggio,5988
+V007,C-aggressione/scontro,
+V007,C-angoscia/delusione,21601
+V007,C-arrivo,
+V007,C-attesa,
+V007,C-compito/missione,
+V007,S-cornice,
+V007,C-illusione/speranza,7777
+V007,C-incontro animale,
+V007,C-incontro di gruppo,24477
+V007,C-incontro femminile,6648
+V007,C-incontro maschile,6047
+V007,C-iniziativa/piano,
+V007,C-inseguimento/ricerca,
+V007,S-metanarrazione,
+V007,C-partenza/sparizione,
+V007,C-pausa/sospensione,
+V007,S-racconto incastonato,
+V007,C-riflessione,
+V007,C-rivelazione,5252
+V007,C-smarrimento/dubbio,
+V007,S-struttura,
+V007,C-viaggio,
+V008,C-aggressione/scontro,8614
+V008,C-angoscia/delusione,
+V008,C-arrivo,
+V008,C-attesa,
+V008,C-compito/missione,13316
+V008,S-cornice,16020
+V008,C-illusione/speranza,
+V008,C-incontro animale,
+V008,C-incontro di gruppo,40300
+V008,C-incontro femminile,21126
+V008,C-incontro maschile,17384
+V008,C-iniziativa/piano,
+V008,C-inseguimento/ricerca,4735
+V008,S-metanarrazione,
+V008,C-partenza/sparizione,5045
+V008,C-pausa/sospensione,
+V008,S-racconto incastonato,
+V008,C-riflessione,
+V008,C-rivelazione,3106
+V008,C-smarrimento/dubbio,22609
+V008,S-struttura,
+V008,C-viaggio,7487
+V009,C-aggressione/scontro,18741
+V009,C-angoscia/delusione,
+V009,C-arrivo,284
+V009,C-attesa,
+V009,C-compito/missione,890
+V009,S-cornice,
+V009,C-illusione/speranza,
+V009,C-incontro animale,
+V009,C-incontro di gruppo,2652
+V009,C-incontro femminile,6396
+V009,C-incontro maschile,17373
+V009,C-iniziativa/piano,
+V009,C-inseguimento/ricerca,
+V009,S-metanarrazione,
+V009,C-partenza/sparizione,
+V009,C-pausa/sospensione,24257
+V009,S-racconto incastonato,
+V009,C-riflessione,38432
+V009,C-rivelazione,
+V009,C-smarrimento/dubbio,
+V009,S-struttura,
+V009,C-viaggio,564
+V010,C-aggressione/scontro,17751
+V010,C-angoscia/delusione,211
+V010,C-arrivo,
+V010,C-attesa,9123
+V010,C-compito/missione,
+V010,S-cornice,
+V010,C-illusione/speranza,
+V010,C-incontro animale,
+V010,C-incontro di gruppo,25477
+V010,C-incontro femminile,13485
+V010,C-incontro maschile,73918
+V010,C-iniziativa/piano,9528
+V010,C-inseguimento/ricerca,
+V010,S-metanarrazione,
+V010,C-partenza/sparizione,
+V010,C-pausa/sospensione,
+V010,S-racconto incastonato,
+V010,C-riflessione,1435
+V010,C-rivelazione,697
+V010,C-smarrimento/dubbio,
+V010,S-struttura,
+V010,C-viaggio,5550
+V011,C-aggressione/scontro,
+V011,C-angoscia/delusione,
+V011,C-arrivo,
+V011,C-attesa,
+V011,C-compito/missione,
+V011,S-cornice,
+V011,C-illusione/speranza,
+V011,C-incontro animale,
+V011,C-incontro di gruppo,
+V011,C-incontro femminile,
+V011,C-incontro maschile,
+V011,C-iniziativa/piano,
+V011,C-inseguimento/ricerca,
+V011,S-metanarrazione,
+V011,C-partenza/sparizione,
+V011,C-pausa/sospensione,
+V011,S-racconto incastonato,
+V011,C-riflessione,
+V011,C-rivelazione,
+V011,C-smarrimento/dubbio,
+V011,S-struttura,202220
+V011,C-viaggio,
+V013,C-aggressione/scontro,
+V013,C-angoscia/delusione,
+V013,C-arrivo,
+V013,C-attesa,
+V013,C-compito/missione,
+V013,S-cornice,
+V013,C-illusione/speranza,
+V013,C-incontro animale,
+V013,C-incontro di gruppo,
+V013,C-incontro femminile,
+V013,C-incontro maschile,
+V013,C-iniziativa/piano,
+V013,C-inseguimento/ricerca,
+V013,S-metanarrazione,
+V013,C-partenza/sparizione,
+V013,C-pausa/sospensione,
+V013,S-racconto incastonato,
+V013,C-riflessione,
+V013,C-rivelazione,
+V013,C-smarrimento/dubbio,
+V013,S-struttura,254069
+V013,C-viaggio,
+V014,C-aggressione/scontro,
+V014,C-angoscia/delusione,
+V014,C-arrivo,
+V014,C-attesa,
+V014,C-compito/missione,
+V014,S-cornice,
+V014,C-illusione/speranza,
+V014,C-incontro animale,
+V014,C-incontro di gruppo,
+V014,C-incontro femminile,
+V014,C-incontro maschile,
+V014,C-iniziativa/piano,
+V014,C-inseguimento/ricerca,
+V014,S-metanarrazione,
+V014,C-partenza/sparizione,
+V014,C-pausa/sospensione,
+V014,S-racconto incastonato,
+V014,C-riflessione,
+V014,C-rivelazione,
+V014,C-smarrimento/dubbio,
+V014,S-struttura,221544
+V014,C-viaggio,
+V016,C-aggressione/scontro,
+V016,C-angoscia/delusione,
+V016,C-arrivo,
+V016,C-attesa,
+V016,C-compito/missione,
+V016,S-cornice,5655
+V016,C-illusione/speranza,
+V016,C-incontro animale,
+V016,C-incontro di gruppo,
+V016,C-incontro femminile,
+V016,C-incontro maschile,
+V016,C-iniziativa/piano,
+V016,C-inseguimento/ricerca,
+V016,S-metanarrazione,
+V016,C-partenza/sparizione,
+V016,C-pausa/sospensione,
+V016,S-racconto incastonato,52486
+V016,C-riflessione,
+V016,C-rivelazione,
+V016,C-smarrimento/dubbio,
+V016,S-struttura,
+V016,C-viaggio,
+V018,C-aggressione/scontro,
+V018,C-angoscia/delusione,
+V018,C-arrivo,
+V018,C-attesa,
+V018,C-compito/missione,
+V018,S-cornice,42639
+V018,C-illusione/speranza,
+V018,C-incontro animale,
+V018,C-incontro di gruppo,
+V018,C-incontro femminile,
+V018,C-incontro maschile,
+V018,C-iniziativa/piano,
+V018,C-inseguimento/ricerca,
+V018,S-metanarrazione,
+V018,C-partenza/sparizione,
+V018,C-pausa/sospensione,
+V018,S-racconto incastonato,103640
+V018,C-riflessione,
+V018,C-rivelazione,
+V018,C-smarrimento/dubbio,
+V018,S-struttura,
+V018,C-viaggio,
+V019,C-aggressione/scontro,
+V019,C-angoscia/delusione,
+V019,C-arrivo,
+V019,C-attesa,
+V019,C-compito/missione,
+V019,S-cornice,8886
+V019,C-illusione/speranza,
+V019,C-incontro animale,
+V019,C-incontro di gruppo,
+V019,C-incontro femminile,
+V019,C-incontro maschile,
+V019,C-iniziativa/piano,
+V019,C-inseguimento/ricerca,
+V019,S-metanarrazione,
+V019,C-partenza/sparizione,
+V019,C-pausa/sospensione,
+V019,S-racconto incastonato,146854
+V019,C-riflessione,
+V019,C-rivelazione,
+V019,C-smarrimento/dubbio,
+V019,S-struttura,
+V019,C-viaggio,
+V021,C-aggressione/scontro,
+V021,C-angoscia/delusione,
+V021,C-arrivo,
+V021,C-attesa,
+V021,C-compito/missione,
+V021,S-cornice,
+V021,C-illusione/speranza,
+V021,C-incontro animale,
+V021,C-incontro di gruppo,38806
+V021,C-incontro femminile,67960
+V021,C-incontro maschile,72409
+V021,C-iniziativa/piano,
+V021,C-inseguimento/ricerca,
+V021,S-metanarrazione,
+V021,C-partenza/sparizione,
+V021,C-pausa/sospensione,
+V021,S-racconto incastonato,143892
+V021,C-riflessione,
+V021,C-rivelazione,
+V021,C-smarrimento/dubbio,
+V021,S-struttura,
+V021,C-viaggio,
