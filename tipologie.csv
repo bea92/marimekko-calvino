@@ -1,253 +1,493 @@
 volume,tipo,caratteri
-V005,,11571
-V005,aggressione/scontro,12716
-V005,angoscia/delusione,16785
+V005,,21902
+V005,aggressione/scontro,92728
+V005,angoscia/delusione,41844
 V005,arrivo,
 V005,attesa,
-V005,compito/missione,
+V005,cambiamento,
+V005,città magica,
+V005,compito/missione,7639
 V005,cornice,
-V005,illusione/speranza,
-V005,incontro,di,gruppo,61328
-V005,incontro,femminile,75098
-V005,incontro,maschile,101349
-V005,iniziativa/piano,
-V005,inseguimento/ricerca,
-V005,partenza/sparizione,35417
+V005,digressione,24230
+V005,fallimento,3062
+V005,fuga,18781
+V005,guerra,
+V005,illusione/speranza,6589
+V005,incontro di gruppo,70016
+V005,incontro femminile,82387
+V005,incontro maschile,149056
+V005,iniziativa/piano,32046
+V005,innamoramento,
+V005,inseguimento/ricerca,874
+V005,ipotesi,
+V005,matrimonio,
+V005,missione dei bambini,
+V005,mistero/assurdità,
+V005,morte,
+V005,ostacolo,
+V005,paradosso,
+V005,partenza/sparizione,42682
 V005,pausa/sospensione,59774
-V005,racconto,incastonato,30477
+V005,racconto incastonato,30477
 V005,riflessione,
-V005,rivelazione,
-V005,smarrimento/dubbio,6129
+V005,ritorno,5021
+V005,rivelazione,14663
+V005,scommessa,
+V005,smarrimento/dubbio,13115
 V005,struttura,
+V005,successo,
+V005,telefonata,
+V005,terna,
 V005,viaggio,5988
+V005,visione,
 V007,,
-V007,aggressione/scontro,
-V007,angoscia/delusione,21601
+V007,aggressione/scontro,2055
+V007,angoscia/delusione,30506
 V007,arrivo,
 V007,attesa,
-V007,compito/missione,
+V007,cambiamento,
+V007,città magica,
+V007,compito/missione,1774
 V007,cornice,
-V007,illusione/speranza,7777
-V007,incontro,di,gruppo,24477
-V007,incontro,femminile,6648
-V007,incontro,maschile,6047
+V007,digressione,
+V007,fallimento,
+V007,fuga,
+V007,guerra,
+V007,illusione/speranza,16721
+V007,incontro di gruppo,27833
+V007,incontro femminile,7292
+V007,incontro maschile,6047
 V007,iniziativa/piano,
+V007,innamoramento,
 V007,inseguimento/ricerca,
+V007,ipotesi,
+V007,matrimonio,
+V007,missione dei bambini,
+V007,mistero/assurdità,
+V007,morte,
+V007,ostacolo,
+V007,paradosso,
 V007,partenza/sparizione,
 V007,pausa/sospensione,
-V007,racconto,incastonato,
+V007,racconto incastonato,
 V007,riflessione,
+V007,ritorno,
 V007,rivelazione,5252
+V007,scommessa,
 V007,smarrimento/dubbio,
 V007,struttura,
+V007,successo,
+V007,telefonata,
+V007,terna,
 V007,viaggio,
-V008,,
-V008,aggressione/scontro,8614
+V007,visione,
+V008,,9915
+V008,aggressione/scontro,14644
 V008,angoscia/delusione,
 V008,arrivo,
 V008,attesa,
-V008,compito/missione,13316
+V008,cambiamento,
+V008,città magica,
+V008,compito/missione,17679
 V008,cornice,16020
+V008,digressione,
+V008,fallimento,
+V008,fuga,
+V008,guerra,
 V008,illusione/speranza,
-V008,incontro,di,gruppo,40300
-V008,incontro,femminile,21126
-V008,incontro,maschile,17384
+V008,incontro di gruppo,40300
+V008,incontro femminile,22591
+V008,incontro maschile,31296
 V008,iniziativa/piano,
-V008,inseguimento/ricerca,4735
-V008,partenza/sparizione,5045
+V008,innamoramento,
+V008,inseguimento/ricerca,11826
+V008,ipotesi,
+V008,matrimonio,
+V008,missione dei bambini,
+V008,mistero/assurdità,
+V008,morte,
+V008,ostacolo,
+V008,paradosso,
+V008,partenza/sparizione,6059
 V008,pausa/sospensione,
-V008,racconto,incastonato,
+V008,racconto incastonato,
 V008,riflessione,
-V008,rivelazione,3106
-V008,smarrimento/dubbio,22609
+V008,ritorno,
+V008,rivelazione,13324
+V008,scommessa,
+V008,smarrimento/dubbio,40829
 V008,struttura,
-V008,viaggio,7487
+V008,successo,
+V008,telefonata,
+V008,terna,
+V008,viaggio,9004
+V008,visione,
 V009,,
-V009,aggressione/scontro,18741
+V009,aggressione/scontro,24968
 V009,angoscia/delusione,
 V009,arrivo,284
 V009,attesa,
+V009,cambiamento,
+V009,città magica,
 V009,compito/missione,890
 V009,cornice,
+V009,digressione,
+V009,fallimento,
+V009,fuga,
+V009,guerra,
 V009,illusione/speranza,
-V009,incontro,di,gruppo,2652
-V009,incontro,femminile,6396
-V009,incontro,maschile,17373
+V009,incontro di gruppo,2652
+V009,incontro femminile,7050
+V009,incontro maschile,17803
 V009,iniziativa/piano,
+V009,innamoramento,
 V009,inseguimento/ricerca,
+V009,ipotesi,
+V009,matrimonio,
+V009,missione dei bambini,
+V009,mistero/assurdità,
+V009,morte,
+V009,ostacolo,
+V009,paradosso,
 V009,partenza/sparizione,
 V009,pausa/sospensione,24257
-V009,racconto,incastonato,
-V009,riflessione,38432
+V009,racconto incastonato,
+V009,riflessione,96525
+V009,ritorno,
 V009,rivelazione,
+V009,scommessa,
 V009,smarrimento/dubbio,
 V009,struttura,
+V009,successo,
+V009,telefonata,13774
+V009,terna,
 V009,viaggio,564
-V010,,211
-V010,aggressione/scontro,17751
+V009,visione,
+V010,,3145
+V010,aggressione/scontro,19471
 V010,angoscia/delusione,
 V010,arrivo,
 V010,attesa,9123
+V010,cambiamento,
+V010,città magica,
 V010,compito/missione,
 V010,cornice,
+V010,digressione,
+V010,fallimento,
+V010,fuga,
+V010,guerra,
 V010,illusione/speranza,
-V010,incontro,di,gruppo,25477
-V010,incontro,femminile,13485
-V010,incontro,maschile,73918
+V010,incontro di gruppo,25477
+V010,incontro femminile,20057
+V010,incontro maschile,87018
 V010,iniziativa/piano,9528
-V010,inseguimento/ricerca,
-V010,partenza/sparizione,
+V010,innamoramento,
+V010,inseguimento/ricerca,6201
+V010,ipotesi,
+V010,matrimonio,
+V010,missione dei bambini,
+V010,mistero/assurdità,
+V010,morte,
+V010,ostacolo,
+V010,paradosso,
+V010,partenza/sparizione,3674
 V010,pausa/sospensione,
-V010,racconto,incastonato,
+V010,racconto incastonato,
 V010,riflessione,1435
-V010,rivelazione,697
+V010,ritorno,
+V010,rivelazione,3149
+V010,scommessa,
 V010,smarrimento/dubbio,
 V010,struttura,
+V010,successo,
+V010,telefonata,
+V010,terna,
 V010,viaggio,5550
-V011,,
-V011,aggressione/scontro,
-V011,angoscia/delusione,
+V010,visione,
+V011,,2087
+V011,aggressione/scontro,1632
+V011,angoscia/delusione,31312
 V011,arrivo,
 V011,attesa,
-V011,compito/missione,
+V011,cambiamento,
+V011,città magica,
+V011,compito/missione,4928
 V011,cornice,
-V011,illusione/speranza,
-V011,incontro,di,gruppo,
-V011,incontro,femminile,
-V011,incontro,maschile,
-V011,iniziativa/piano,
-V011,inseguimento/ricerca,
-V011,partenza/sparizione,
+V011,digressione,
+V011,fallimento,17667
+V011,fuga,4398
+V011,guerra,
+V011,illusione/speranza,39463
+V011,incontro di gruppo,4826
+V011,incontro femminile,3614
+V011,incontro maschile,22010
+V011,iniziativa/piano,21725
+V011,innamoramento,
+V011,inseguimento/ricerca,2964
+V011,ipotesi,
+V011,matrimonio,
+V011,missione dei bambini,11645
+V011,mistero/assurdità,1558
+V011,morte,
+V011,ostacolo,7116
+V011,paradosso,
+V011,partenza/sparizione,3133
 V011,pausa/sospensione,
-V011,racconto,incastonato,
+V011,racconto incastonato,
 V011,riflessione,
-V011,rivelazione,
-V011,smarrimento/dubbio,
+V011,ritorno,
+V011,rivelazione,4210
+V011,scommessa,
+V011,smarrimento/dubbio,11406
 V011,struttura,202220
+V011,successo,218
+V011,telefonata,
+V011,terna,2047
 V011,viaggio,
-V013,,
-V013,aggressione/scontro,
-V013,angoscia/delusione,
+V011,visione,1878
+V013,,30916
+V013,aggressione/scontro,4542
+V013,angoscia/delusione,52254
 V013,arrivo,
-V013,attesa,
-V013,compito/missione,
-V013,cornice,
-V013,illusione/speranza,
-V013,incontro,di,gruppo,
-V013,incontro,femminile,
-V013,incontro,maschile,
-V013,iniziativa/piano,
-V013,inseguimento/ricerca,
-V013,partenza/sparizione,
-V013,pausa/sospensione,
-V013,racconto,incastonato,
+V013,attesa,4451
+V013,cambiamento,23261
+V013,città magica,
+V013,compito/missione,3089
+V013,cornice,4138
+V013,digressione,
+V013,fallimento,
+V013,fuga,
+V013,guerra,
+V013,illusione/speranza,13908
+V013,incontro di gruppo,10967
+V013,incontro femminile,17104
+V013,incontro maschile,10687
+V013,iniziativa/piano,9688
+V013,innamoramento,3171
+V013,inseguimento/ricerca,18071
+V013,ipotesi,
+V013,matrimonio,
+V013,missione dei bambini,
+V013,mistero/assurdità,
+V013,morte,
+V013,ostacolo,
+V013,paradosso,3489
+V013,partenza/sparizione,18474
+V013,pausa/sospensione,4844
+V013,racconto incastonato,236926
 V013,riflessione,
-V013,rivelazione,
+V013,ritorno,
+V013,rivelazione,16238
+V013,scommessa,4705
 V013,smarrimento/dubbio,
 V013,struttura,254069
+V013,successo,
+V013,telefonata,
+V013,terna,27292
 V013,viaggio,
-V014,,
-V014,aggressione/scontro,
-V014,angoscia/delusione,
+V013,visione,
+V014,,16825
+V014,aggressione/scontro,8373
+V014,angoscia/delusione,10647
 V014,arrivo,
-V014,attesa,
+V014,attesa,984
+V014,cambiamento,19207
+V014,città magica,
 V014,compito/missione,
-V014,cornice,
-V014,illusione/speranza,
-V014,incontro,di,gruppo,
-V014,incontro,femminile,
-V014,incontro,maschile,
-V014,iniziativa/piano,
-V014,inseguimento/ricerca,
-V014,partenza/sparizione,
+V014,cornice,2772
+V014,digressione,
+V014,fallimento,
+V014,fuga,888
+V014,guerra,
+V014,illusione/speranza,6794
+V014,incontro di gruppo,
+V014,incontro femminile,7475
+V014,incontro maschile,2260
+V014,iniziativa/piano,13357
+V014,innamoramento,
+V014,inseguimento/ricerca,2323
+V014,ipotesi,21743
+V014,matrimonio,
+V014,missione dei bambini,
+V014,mistero/assurdità,
+V014,morte,1892
+V014,ostacolo,
+V014,paradosso,4532
+V014,partenza/sparizione,2106
 V014,pausa/sospensione,
-V014,racconto,incastonato,
+V014,racconto incastonato,62962
 V014,riflessione,
-V014,rivelazione,
-V014,smarrimento/dubbio,
-V014,struttura,221544
+V014,ritorno,
+V014,rivelazione,21865
+V014,scommessa,
+V014,smarrimento/dubbio,34738
+V014,struttura,280442
+V014,successo,
+V014,telefonata,
+V014,terna,
 V014,viaggio,
-V016,,
-V016,aggressione/scontro,
+V014,visione,2925
+V016,,2593
+V016,aggressione/scontro,3316
 V016,angoscia/delusione,
-V016,arrivo,
+V016,arrivo,2549
 V016,attesa,
+V016,cambiamento,
+V016,città magica,3991
 V016,compito/missione,
 V016,cornice,5655
+V016,digressione,
+V016,fallimento,
+V016,fuga,
+V016,guerra,866
 V016,illusione/speranza,
-V016,incontro,di,gruppo,
-V016,incontro,femminile,
-V016,incontro,maschile,
+V016,incontro di gruppo,
+V016,incontro femminile,11053
+V016,incontro maschile,15693
 V016,iniziativa/piano,
+V016,innamoramento,
 V016,inseguimento/ricerca,
+V016,ipotesi,
+V016,matrimonio,1023
+V016,missione dei bambini,
+V016,mistero/assurdità,
+V016,morte,234
+V016,ostacolo,
+V016,paradosso,
 V016,partenza/sparizione,
 V016,pausa/sospensione,
-V016,racconto,incastonato,52486
+V016,racconto incastonato,11908
 V016,riflessione,
-V016,rivelazione,
+V016,ritorno,
+V016,rivelazione,2888
+V016,scommessa,
 V016,smarrimento/dubbio,
 V016,struttura,
-V016,viaggio,
+V016,successo,
+V016,telefonata,
+V016,terna,
+V016,viaggio,5382
+V016,visione,
 V018,,
 V018,aggressione/scontro,
 V018,angoscia/delusione,
 V018,arrivo,
 V018,attesa,
+V018,cambiamento,
+V018,città magica,
 V018,compito/missione,
 V018,cornice,42639
+V018,digressione,
+V018,fallimento,
+V018,fuga,
+V018,guerra,
 V018,illusione/speranza,
-V018,incontro,di,gruppo,
-V018,incontro,femminile,
-V018,incontro,maschile,
+V018,incontro di gruppo,
+V018,incontro femminile,
+V018,incontro maschile,
 V018,iniziativa/piano,
+V018,innamoramento,
 V018,inseguimento/ricerca,
+V018,ipotesi,
+V018,matrimonio,
+V018,missione dei bambini,
+V018,mistero/assurdità,
+V018,morte,
+V018,ostacolo,
+V018,paradosso,
 V018,partenza/sparizione,
 V018,pausa/sospensione,
-V018,racconto,incastonato,103640
+V018,racconto incastonato,103640
 V018,riflessione,
+V018,ritorno,
 V018,rivelazione,
+V018,scommessa,
 V018,smarrimento/dubbio,
 V018,struttura,
+V018,successo,
+V018,telefonata,
+V018,terna,
 V018,viaggio,
-V019,,
-V019,aggressione/scontro,
+V018,visione,
+V019,,17856
+V019,aggressione/scontro,6349
 V019,angoscia/delusione,
-V019,arrivo,
+V019,arrivo,3499
 V019,attesa,
-V019,compito/missione,
+V019,cambiamento,
+V019,città magica,6813
+V019,compito/missione,5536
 V019,cornice,8886
+V019,digressione,
+V019,fallimento,
+V019,fuga,
+V019,guerra,866
 V019,illusione/speranza,
-V019,incontro,di,gruppo,
-V019,incontro,femminile,
-V019,incontro,maschile,
+V019,incontro di gruppo,
+V019,incontro femminile,19870
+V019,incontro maschile,41889
 V019,iniziativa/piano,
+V019,innamoramento,
 V019,inseguimento/ricerca,
+V019,ipotesi,
+V019,matrimonio,1023
+V019,missione dei bambini,
+V019,mistero/assurdità,
+V019,morte,234
+V019,ostacolo,
+V019,paradosso,
 V019,partenza/sparizione,
 V019,pausa/sospensione,
-V019,racconto,incastonato,146854
+V019,racconto incastonato,169954
 V019,riflessione,
-V019,rivelazione,
+V019,ritorno,
+V019,rivelazione,11712
+V019,scommessa,
 V019,smarrimento/dubbio,
 V019,struttura,
-V019,viaggio,
+V019,successo,
+V019,telefonata,
+V019,terna,
+V019,viaggio,14856
+V019,visione,
 V021,,
 V021,aggressione/scontro,
 V021,angoscia/delusione,
 V021,arrivo,
 V021,attesa,
+V021,cambiamento,
+V021,città magica,
 V021,compito/missione,
 V021,cornice,
+V021,digressione,
+V021,fallimento,
+V021,fuga,
+V021,guerra,
 V021,illusione/speranza,
-V021,incontro,di,gruppo,38806
-V021,incontro,femminile,67960
-V021,incontro,maschile,72409
+V021,incontro di gruppo,41392
+V021,incontro femminile,157066
+V021,incontro maschile,90277
 V021,iniziativa/piano,
+V021,innamoramento,
 V021,inseguimento/ricerca,
+V021,ipotesi,
+V021,matrimonio,
+V021,missione dei bambini,
+V021,mistero/assurdità,
+V021,morte,
+V021,ostacolo,
+V021,paradosso,
 V021,partenza/sparizione,
 V021,pausa/sospensione,
-V021,racconto,incastonato,143892
+V021,racconto incastonato,298015
 V021,riflessione,
+V021,ritorno,
 V021,rivelazione,
+V021,scommessa,
 V021,smarrimento/dubbio,
 V021,struttura,
+V021,successo,
+V021,telefonata,
+V021,terna,
 V021,viaggio,
+V021,visione,
